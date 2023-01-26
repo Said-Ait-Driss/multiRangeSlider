@@ -1,0 +1,33 @@
+{
+  "name": "multirangeslider",
+  "version": "1.0.0",
+  "description": "react multi range slider",
+  "main": "index.js",
+  "dependencies": {
+    "classnames": "^2.3.2",
+    "prop-types": "^15.8.1"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-file index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Said-Ait-Driss/multiRangeSlider.git"
+  },
+  "keywords": [
+    "react multi range slider",
+    "multi range slider",
+    "multi slider",
+    "multi range",
+    "multi price slider",
+    "multi price range",
+    "price range",
+    "price min max"
+  ],
+  "author": "Said Ait Driss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Said-Ait-Driss/multiRangeSlider/issues"
+  },
+  "homepage": "https://github.com/Said-Ait-Driss/multiRangeSlider#readme"
+}
