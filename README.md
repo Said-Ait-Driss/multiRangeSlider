@@ -1,6 +1,6 @@
 # multiRangeSlider
 ![blue](https://github.com/Said-Ait-Driss/multiRangeSlider/blob/main/assets/range-package.png)
-![red](TargetUrl)
+![red](https://github.com/Said-Ait-Driss/multiRangeSlider/blob/main/assets/range-package2.png)
 ## Installation
 ```shell
 npm i @saidaitdriss/multirangeslider
