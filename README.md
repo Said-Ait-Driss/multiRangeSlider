@@ -1,5 +1,5 @@
 # multiRangeSlider
-![blue](TargetUrl)
+![blue](https://github.com/Said-Ait-Driss/multiRangeSlider/blob/main/assets/range-package.png)
 ![red](TargetUrl)
 ## Installation
 ```shell
